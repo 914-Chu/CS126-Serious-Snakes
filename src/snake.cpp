@@ -119,7 +119,7 @@ bool Snake::isDead() const {
 
 void Snake::eatFood(ofColor newBodyColor) {
 	// Add a new link to our naive linked list
-	snake_body.push_back(SnakeBodySegment(1));
+	snake_body.push_back(1);
 
 	// Set up our new body piece
 	SnakeBody* new_body = new SnakeBody();

@@ -1,52 +1,207 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
+# Created by https://www.gitignore.io/api/xcode,macos,windows,openframeworks,openframeworks+visualstudio
+# Edit at https://www.gitignore.io/?templates=xcode,macos,windows,openframeworks,openframeworks+visualstudio
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### OpenFrameworks ###
+# ignore generated binaries
+# but not the data folder
+
+/bin/*
+!/bin/data/
+
+# general
+
+[Bb]uild/
+[Oo]bj/
 *.o
-*.obj
+[Dd]ebug*/
+[Rr]elease*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+*.log
 
-# Precompiled Headers
-*.gch
-*.pch
+# IDE files which should
+# be ignored
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# XCode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+# XCode 4
+xcuserdata
+*.xcworkspace
 
-# Fortran module files
-*.mod
-*.smod
+# Code::Blocks
+*.depend
+*.layout
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Visual Studio
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.ilk
+*.aps
+ipch/
 
-# Executables
-*.exe
-*.out
-*.app
+# Eclipse
+.metadata
+local.properties
+.externalToolBuilders
 
-#Visual Studio Files
-*.rc
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
-.vs/*
-bin/*
-obj/*
-packages/*
-packages.config
+# operating system
 
-#Xcode Files
-Makefile
-Project.xcconfig
-config.make
-of-snake.xcodeproj/*
-openFrameworks-Info.plist
+# Linux
+*~
+# KDE
+.directory
 
+# OSX
+*.swp
+*~.nib
+# Thumbnails
+
+# Windows
+# Image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+# Android
+.csettings
+
+### OpenFrameworks+VisualStudio ###
+# ignore generated binaries
+# but not the data folder
+
+
+# general
+
+
+# IDE files which should
+# be ignored
+
+# XCode
+# XCode 4
+
+# Code::Blocks
+
+# Visual Studio
+
+# Eclipse
+
+# operating system
+
+# Linux
+# KDE
+
+# OSX
+# Thumbnails
+
+# Windows
+# Image file caches
+# Folder config file
+
+# Android
+
+### OpenFrameworks+VisualStudio Patch ###
+.vs/
+*.ncb
+*.opendb
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+### Xcode ###
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+*.xccheckout
+
+## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+build/
+DerivedData/
+*.moved-aside
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+## Xcode Patch
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+
+### Xcode Patch ###
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# End of https://www.gitignore.io/api/xcode,macos,windows,openframeworks,openframeworks+visualstudio

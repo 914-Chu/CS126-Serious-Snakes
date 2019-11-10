@@ -1,6 +1,6 @@
-#Project Name
+# Project Name
 
-##Table of Content
+## Table of Content
 
 - [About](#heading)
 - [Background](#heading)

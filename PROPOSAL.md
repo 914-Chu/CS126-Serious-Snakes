@@ -12,7 +12,7 @@
   * [Week 4](#sub-heading-3)
 - [Strech Goals](#heading-4)
 
-<!-- toc -->
+<!-- TOC -->
 
 ## About
 

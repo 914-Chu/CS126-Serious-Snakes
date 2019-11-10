@@ -2,11 +2,11 @@
 
 ## Table of Content
 
-- [About](#heading-0)
+- [About](#heading)
 - [Background](#heading-1)
 - [Libraries](#heading-2)
 - [Timeline](#heading-3)
-  * [Week 1](#sub-heading-0)
+  * [Week 1](#sub-heading)
   * [Week 2](#sub-heading-1)
   * [Week 3](#sub-heading-2)
   * [Week 4](#sub-heading-3)

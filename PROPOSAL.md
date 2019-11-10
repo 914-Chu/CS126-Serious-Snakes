@@ -11,7 +11,9 @@
   * [Week 3](#sub-heading-2)
   * [Week 4](#sub-heading-3)
 - [Strech Goals](#heading-4)
- 
+
+<!-- toc -->
+
 ## About
 
 ## Background

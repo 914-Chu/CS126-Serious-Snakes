@@ -20,7 +20,7 @@
 
 NS-SHAFT is a vertically scrolling platform game. Player can move left or right while falling into the shaft. The goal is to slowly reach the bottom without being killed by the spikes on the ceiling and platforms or drop directly to the bottom.
 
-![Alt Text](https://media.giphy.com/media/elsxUVBOgxmnZ7ame6/giphy.gif)
+![alt text](https://media.giphy.com/media/elsxUVBOgxmnZ7ame6/giphy.gif)
 
 ## Background
 

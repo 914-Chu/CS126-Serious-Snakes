@@ -5,7 +5,6 @@
 
 - [About](#about)
 - [Background](#background)
-- [Features](#features)
 - [Libraries](#libraries)
 - [Timeline](#timeline)
   * [Week 1](#week-1)
@@ -20,7 +19,7 @@
 
 NS-SHAFT is a vertically scrolling platform game. Player can move left or right while falling into the shaft. The goal is to slowly reach the bottom without being killed by the spikes on the ceiling and platforms or drop directly to the bottom.
 
-### Left and Right
+### Left and Right                   
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/leftright.gif" alt="alt text" width="250" height="250">
 
@@ -28,6 +27,10 @@ NS-SHAFT is a vertically scrolling platform game. Player can move left or right 
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/spike.gif" alt="alt text" width="250" height="250">
 
+
+### Conveyor
+
+<img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/conveyor.gif" alt="alt text" width="250" height="250">
 
 ### Spring
 
@@ -42,10 +45,6 @@ NS-SHAFT is a vertically scrolling platform game. Player can move left or right 
 
 
 
-## Features
-
-
-
 ## Libraries
 
 
@@ -53,11 +52,17 @@ NS-SHAFT is a vertically scrolling platform game. Player can move left or right 
 ## Timeline
 
 ### Week 1
+Build game engine
 ### Week 2
+Build game engine
+Add normal platforms
 ### Week 3
+Add features: spikes platforms and life bar
 ### Week 4
+Add features: conveyor, spring, and flip platforms 
+(Not sure how many can be done)
 
 ## Strech Goals
 
-- Different levels with different themes.
+- Update graphics
 - Ranking system

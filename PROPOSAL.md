@@ -52,15 +52,15 @@ NS-SHAFT is a vertically scrolling platform game. Player can move left or right 
 ## Timeline
 
 ### Week 1
-Build game engine
+- Build game engine
 ### Week 2
-Build game engine
-Add normal platforms
+- Build game engine
+- Add normal platforms
 ### Week 3
-Add features: spikes platforms and life bar
+- Add features: spikes platforms and life bar
 ### Week 4
-Add features: conveyor, spring, and flip platforms 
-(Not sure how many can be done)
+- Add features: conveyor, spring, and flip platforms 
+  (Not sure how many can be done)
 
 ## Strech Goals
 

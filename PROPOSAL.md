@@ -43,7 +43,7 @@ NS-SHAFT is a vertically scrolling platform game. Player can move left or right 
 
 ## Background
 
-I used to played this game a lot when I was a kid.
+To recreate the game I used to played a lot when I was a kid.
 
 ## Libraries
 

@@ -47,7 +47,9 @@ I used to played this game a lot when I was a kid.
 
 ## Libraries
 
-
+- ofxGame: Game engine
+- ofxActionManager: Actions
+- ofxGui: Graphical user interfaces
 
 ## Timeline
 

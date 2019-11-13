@@ -57,12 +57,12 @@ I used to played this game a lot when I was a kid.
 - Build game engine
 ### Week 2
 - Build game engine
-- Add normal platforms
+- Add features: normal platforms/level count
 ### Week 3
-- Add normal platforms
-- Add features: spikes platforms and life bar
+- Add features: normal platforms/level count
+- Add features: spikes platforms/life bar
 ### Week 4
-- Add features: spikes platforms and life bar
+- Add features: spikes platforms/life bar
 - (Add features: conveyor/spring/flip platforms)
   
 ## Strech Goals

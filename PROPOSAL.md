@@ -20,28 +20,28 @@
 NS-SHAFT is a vertically scrolling platform game. Player can move left or right while falling into the shaft. The game will randomly generate five different kinds of platforms which includes the normal, spikes, conveyor, spring, and fake platforms. Player will regain life whenever they successfully go down one level. The goal is to slowly reach the bottom without being killed by the spikes on the ceiling and platforms or drop directly to the bottom. 
 
 ### Normal                   
-- Allow player to stay on it without any effect.
+Allow player to stay on it without any effect.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/leftright.gif" alt="alt text" width="250" height="250">
 
 ### Spikes
-- Reduce certain amount of life.
+Reduce certain amount of life.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/spike.gif" alt="alt text" width="250" height="250">
 
 
 ### Conveyor
-- Automatically move the player to left or right.
+Automatically move the player to left or right.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/conveyor.gif" alt="alt text" width="250" height="250">
 
 ### Spring
-- Make the player bounce.
+Make the player bounce.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/spring.gif" alt="alt text" width="250" height="250">
 
 ### Fake
-- Drop the player after short period of time.
+Drop the player after short period of time.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/flip.gif" alt="alt text" width="250" height="250">
 

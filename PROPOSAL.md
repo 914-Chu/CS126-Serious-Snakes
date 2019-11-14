@@ -17,7 +17,15 @@
 
 ## About
 
-NS-SHAFT is a vertically scrolling platform game. Player can move left or right while falling into the shaft. The goal is to slowly reach the bottom without being killed by the spikes on the ceiling and platforms or drop directly to the bottom.
+NS-SHAFT is a vertically scrolling platform game. Player can move left or right while falling into the shaft. The game will randomly generate five different kinds of platforms which includes the normal, spikes, conveyor, spring, and fake platforms. 
+
+- Normal platform: Allow player to stay on it without any effect.
+- Spikes platform: Reduce certain amount of life.
+- Conveyor platform: Automatically move the player to left or right.
+- Spring platform: Make the player bounce.
+- Fake platform: Drop the player after short period of time.
+
+Player will regain life whenever they successfully go down one level. The goal is to slowly reach the bottom without being killed by the spikes on the ceiling and platforms or drop directly to the bottom. 
 
 ### Left and Right                   
 
@@ -36,18 +44,18 @@ NS-SHAFT is a vertically scrolling platform game. Player can move left or right 
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/spring.gif" alt="alt text" width="250" height="250">
 
-### Flip
+### Fake
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/flip.gif" alt="alt text" width="250" height="250">
 
 
 ## Background
 
-To recreate the game I used to played a lot when I was a kid.
+The reason why I chose game as my final project was to learn how to build a game from scratch. Since building a game requires various techniques I believe this is a good opportunity for me to gain a better understanding on integrating skills I've learned so far. The NS-SHAFT was a game I used to play a lot when I was a kid. Since the rule, function and graphics of this game are quite straight forward, I think it's a suitable choice for my first game.
 
 ## Libraries
 
-- ofxGame: Game engine
+- FMOD: Audio 
 - ofxActionManager: Actions
 - ofxGui: Graphical user interfaces
 
@@ -63,7 +71,7 @@ To recreate the game I used to played a lot when I was a kid.
 - Add features: spikes platforms/life bar
 ### Week 4
 - Add features: spikes platforms/life bar
-- (Add features: conveyor/spring/flip platforms)
+- (Add features: conveyor/spring/fake platforms)
   
 ## Strech Goals
 

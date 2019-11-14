@@ -19,28 +19,28 @@
 
 NS-SHAFT is a vertically scrolling platform game. Player can move left or right while falling into the shaft. The game will randomly generate five different kinds of platforms which includes the normal, spikes, conveyor, spring, and fake platforms. Player will regain life whenever they successfully go down one level. The goal is to slowly reach the bottom without being killed by the spikes on the ceiling and platforms or drop directly to the bottom. 
 
-### Normal                   
+### Normal Platform                  
 Allow player to stay on it without any effect.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/leftright.gif" alt="alt text" width="250" height="250">
 
-### Spikes
+### Spikes Platform  
 Reduce certain amount of life.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/spike.gif" alt="alt text" width="250" height="250">
 
 
-### Conveyor
+### Conveyor Platform  
 Automatically move the player to left or right.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/conveyor.gif" alt="alt text" width="250" height="250">
 
-### Spring
+### Spring Platform  
 Make the player bounce.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/spring.gif" alt="alt text" width="250" height="250">
 
-### Fake
+### Fake Platform  
 Drop the player after short period of time.
 
 <img src="https://github.com/CS126FA19/serious-snakes-914-Chu/blob/master/flip.gif" alt="alt text" width="250" height="250">
@@ -52,9 +52,10 @@ The reason why I chose game as my final project was to learn how to build a game
 
 ## Libraries
 
-- FMOD: Audio 
-- ofxActionManager: Actions
-- ofxGui: Graphical user interfaces
+- FMOD: Proprietary sound effects engine for audio
+  * https://www.fmod.com/
+- ofxActionManager: Mangement of character's actions
+  * https://github.com/Furkanzmc/ofxActionManager
 
 ## Timeline
 
